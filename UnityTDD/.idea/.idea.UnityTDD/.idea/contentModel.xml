@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_UnityTDD.-1915477280.00" t="ExcludeRecursive" />
+    <e p="D:\TestingProjects\HappyTDD\UnityTDD" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="Tests" t="Include">
+            <e p="TestCustomAttribute.cs" t="Include" />
+            <e p="TestDecoratorA.cs" t="Include" />
+            <e p="TestDecoratorB.cs" t="Include" />
+            <e p="TestDecoratorC.cs" t="Include" />
+            <e p="TestOrder.cs" t="Include" />
+            <e p="TestUnitTest.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="UnityTDD.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

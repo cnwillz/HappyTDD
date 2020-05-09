@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d4fc4d9-96f9-413e-afe6-c92f603f96e2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Editor/Tests/TestUnitTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+              <folding>
+                <marker date="1589025580079" expanded="false" signature="6:154" ph="..." />
+                <marker date="1589025580079" expanded="true" signature="171:2106" ph="{...}" />
+                <marker date="1589025580079" expanded="true" signature="204:2104" ph="{...}" />
+                <marker date="1589025580079" expanded="true" signature="251:294" ph="{...}" />
+                <marker date="1589025580079" expanded="true" signature="346:392" ph="{...}" />
+                <marker date="1589025580079" expanded="true" signature="452:502" ph="{...}" />
+                <marker date="1589025580079" expanded="true" signature="568:621" ph="{...}" />
+                <marker date="1589025580079" expanded="true" signature="741:876" ph="{...}" />
+                <marker date="1589025580079" expanded="true" signature="886:1013" ph="/* A UnityTest behaves like a coroutine in Play Mode. In Edit Mode you can use ... */" />
+                <marker date="1589025580079" expanded="true" signature="1096:1236" ph="{...}" />
+                <marker date="1589025580079" expanded="true" signature="1110:1195" ph="/* Use the Assert class to test conditions. ... */" />
+                <marker date="1589025580079" expanded="true" signature="1347:1389" ph="{...}" />
+                <marker date="1589025580079" expanded="true" signature="1455:1690" ph="{...}" />
+                <marker date="1589025580079" expanded="true" signature="1590:1640" ph="{...}" />
+                <marker date="1589025580079" expanded="true" signature="1745:2098" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Editor/Tests/TestCustomAttribute.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+              <folding>
+                <marker date="1589025809374" expanded="false" signature="6:130" ph="..." />
+                <marker date="1589025809374" expanded="true" signature="147:650" ph="{...}" />
+                <marker date="1589025809374" expanded="true" signature="179:648" ph="{...}" />
+                <marker date="1589025809374" expanded="true" signature="225:273" ph="{...}" />
+                <marker date="1589025809374" expanded="true" signature="361:516" ph="{...}" />
+                <marker date="1589025809374" expanded="true" signature="429:506" ph="{...}" />
+                <marker date="1589025809374" expanded="true" signature="618:642" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Editor/Tests/TestOrder.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+              <folding>
+                <marker date="1589021581272" expanded="false" signature="6:130" ph="..." />
+                <marker date="1589021581272" expanded="true" signature="147:577" ph="{...}" />
+                <marker date="1589021581272" expanded="true" signature="176:575" ph="{...}" />
+                <marker date="1589021581272" expanded="true" signature="244:305" ph="{...}" />
+                <marker date="1589021581272" expanded="true" signature="376:437" ph="{...}" />
+                <marker date="1589021581272" expanded="true" signature="508:569" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Editor/Tests/TestDecoratorA.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+              <folding>
+                <marker date="1589021887309" expanded="false" signature="6:130" ph="..." />
+                <marker date="1589021887309" expanded="true" signature="147:933" ph="{...}" />
+                <marker date="1589021887309" expanded="true" signature="181:931" ph="{...}" />
+                <marker date="1589021887309" expanded="true" signature="346:435" ph="{...}" />
+                <marker date="1589021887309" expanded="true" signature="593:677" ph="{...}" />
+                <marker date="1589021887309" expanded="true" signature="839:925" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Editor/Tests/TestDecoratorB.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+              <folding>
+                <marker date="1589022455967" expanded="false" signature="6:130" ph="..." />
+                <marker date="1589022455967" expanded="true" signature="147:1640" ph="{...}" />
+                <marker date="1589022455967" expanded="true" signature="181:1638" ph="{...}" />
+                <marker date="1589022455967" expanded="true" signature="310:374" ph="{...}" />
+                <marker date="1589022455967" expanded="true" signature="581:623" ph="{...}" />
+                <marker date="1589022455967" expanded="false" signature="633:1200" ph="TEST_PALTFORMS" />
+                <marker date="1589022455967" expanded="true" signature="679:808" ph="[...]" />
+                <marker date="1589022455967" expanded="true" signature="851:875" ph="{...}" />
+                <marker date="1589022455967" expanded="true" signature="908:1038" ph="[...]" />
+                <marker date="1589022455967" expanded="true" signature="1081:1105" ph="{...}" />
+                <marker date="1589022455967" expanded="true" signature="1270:1317" ph="{...}" />
+                <marker date="1589022455967" expanded="true" signature="1438:1632" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Editor/Tests/TestDecoratorC.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+              <folding>
+                <marker date="1589023253180" expanded="true" signature="6:41" ph="..." />
+                <marker date="1589023253180" expanded="true" signature="58:1604" ph="{...}" />
+                <marker date="1589023253180" expanded="true" signature="92:1602" ph="{...}" />
+                <marker date="1589023253180" expanded="true" signature="171:228" ph="{...}" />
+                <marker date="1589023253180" expanded="true" signature="315:371" ph="{...}" />
+                <marker date="1589023253180" expanded="true" signature="512:562" ph="{...}" />
+                <marker date="1589023253180" expanded="true" signature="667:717" ph="{...}" />
+                <marker date="1589023253180" expanded="true" signature="773:894" ph="{...}" />
+                <marker date="1589023253180" expanded="true" signature="1069:1279" ph="{...}" />
+                <marker date="1589023253180" expanded="true" signature="1386:1596" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/58C54DEF-84EA-4B3B-B28C-35158ED32599/6c/7c4f68c7/ApartmentState.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/Tests/TestOrder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/Tests/TestDecoratorB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/Tests/TestCustomAttribute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/Tests/TestUnitTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/Tests/TestDecoratorC.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/58C54DEF-84EA-4B3B-B28C-35158ED32599/6c/7c4f68c7/ApartmentState.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/Tests/TestDecoratorA.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Editor/Tests/TestOrder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/Tests/TestDecoratorA.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/Tests/TestDecoratorB.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/Tests/TestDecoratorC.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/Tests/TestUnitTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/Tests/TestSeverity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/Tests/TestCustomAttribute.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.UnityTDD/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1088" />
+    <option name="y" value="20" />
+    <option name="width" value="1466" />
+    <option name="height" value="995" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Editor" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Editor" type="1045f7f1:UnityExplorerNode" />
+              <item name="Tests" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d4fc4d9-96f9-413e-afe6-c92f603f96e2" name="Default Changelist" comment="" />
+      <created>1589019694124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589019694124</updated>
+      <workItem from="1589019699795" duration="5687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5687000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1088" y="20" width="1466" height="995" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964438" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="LuaCheck" />
+      <window_info anchor="bottom" id="NuGet" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" weight="0.32918552" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" visible="true" weight="0.32918552" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32918552" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32918552" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32918552" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/Tests/TestOrder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <folding>
+            <marker date="1589021581272" expanded="false" signature="6:130" ph="..." />
+            <marker date="1589021581272" expanded="true" signature="147:577" ph="{...}" />
+            <marker date="1589021581272" expanded="true" signature="176:575" ph="{...}" />
+            <marker date="1589021581272" expanded="true" signature="244:305" ph="{...}" />
+            <marker date="1589021581272" expanded="true" signature="376:437" ph="{...}" />
+            <marker date="1589021581272" expanded="true" signature="508:569" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/Tests/TestDecoratorA.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding>
+            <marker date="1589021887309" expanded="false" signature="6:130" ph="..." />
+            <marker date="1589021887309" expanded="true" signature="147:933" ph="{...}" />
+            <marker date="1589021887309" expanded="true" signature="181:931" ph="{...}" />
+            <marker date="1589021887309" expanded="true" signature="346:435" ph="{...}" />
+            <marker date="1589021887309" expanded="true" signature="593:677" ph="{...}" />
+            <marker date="1589021887309" expanded="true" signature="839:925" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/58C54DEF-84EA-4B3B-B28C-35158ED32599/6c/7c4f68c7/ApartmentState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/Tests/TestDecoratorB.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+          <folding>
+            <marker date="1589022455967" expanded="false" signature="6:130" ph="..." />
+            <marker date="1589022455967" expanded="true" signature="147:1640" ph="{...}" />
+            <marker date="1589022455967" expanded="true" signature="181:1638" ph="{...}" />
+            <marker date="1589022455967" expanded="true" signature="310:374" ph="{...}" />
+            <marker date="1589022455967" expanded="true" signature="581:623" ph="{...}" />
+            <marker date="1589022455967" expanded="false" signature="633:1200" ph="TEST_PALTFORMS" />
+            <marker date="1589022455967" expanded="true" signature="679:808" ph="[...]" />
+            <marker date="1589022455967" expanded="true" signature="851:875" ph="{...}" />
+            <marker date="1589022455967" expanded="true" signature="908:1038" ph="[...]" />
+            <marker date="1589022455967" expanded="true" signature="1081:1105" ph="{...}" />
+            <marker date="1589022455967" expanded="true" signature="1270:1317" ph="{...}" />
+            <marker date="1589022455967" expanded="true" signature="1438:1632" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/Tests/TestDecoratorC.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding>
+            <marker date="1589023253180" expanded="true" signature="6:41" ph="..." />
+            <marker date="1589023253180" expanded="true" signature="58:1604" ph="{...}" />
+            <marker date="1589023253180" expanded="true" signature="92:1602" ph="{...}" />
+            <marker date="1589023253180" expanded="true" signature="171:228" ph="{...}" />
+            <marker date="1589023253180" expanded="true" signature="315:371" ph="{...}" />
+            <marker date="1589023253180" expanded="true" signature="512:562" ph="{...}" />
+            <marker date="1589023253180" expanded="true" signature="667:717" ph="{...}" />
+            <marker date="1589023253180" expanded="true" signature="773:894" ph="{...}" />
+            <marker date="1589023253180" expanded="true" signature="1069:1279" ph="{...}" />
+            <marker date="1589023253180" expanded="true" signature="1386:1596" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/Tests/TestSeverity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/Tests/TestUnitTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+          <folding>
+            <marker date="1589025580079" expanded="false" signature="6:154" ph="..." />
+            <marker date="1589025580079" expanded="true" signature="171:2106" ph="{...}" />
+            <marker date="1589025580079" expanded="true" signature="204:2104" ph="{...}" />
+            <marker date="1589025580079" expanded="true" signature="251:294" ph="{...}" />
+            <marker date="1589025580079" expanded="true" signature="346:392" ph="{...}" />
+            <marker date="1589025580079" expanded="true" signature="452:502" ph="{...}" />
+            <marker date="1589025580079" expanded="true" signature="568:621" ph="{...}" />
+            <marker date="1589025580079" expanded="true" signature="741:876" ph="{...}" />
+            <marker date="1589025580079" expanded="true" signature="886:1013" ph="/* A UnityTest behaves like a coroutine in Play Mode. In Edit Mode you can use ... */" />
+            <marker date="1589025580079" expanded="true" signature="1096:1236" ph="{...}" />
+            <marker date="1589025580079" expanded="true" signature="1110:1195" ph="/* Use the Assert class to test conditions. ... */" />
+            <marker date="1589025580079" expanded="true" signature="1347:1389" ph="{...}" />
+            <marker date="1589025580079" expanded="true" signature="1455:1690" ph="{...}" />
+            <marker date="1589025580079" expanded="true" signature="1590:1640" ph="{...}" />
+            <marker date="1589025580079" expanded="true" signature="1745:2098" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/Tests/TestCustomAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <marker date="1589025809374" expanded="false" signature="6:130" ph="..." />
+            <marker date="1589025809374" expanded="true" signature="147:650" ph="{...}" />
+            <marker date="1589025809374" expanded="true" signature="179:648" ph="{...}" />
+            <marker date="1589025809374" expanded="true" signature="225:273" ph="{...}" />
+            <marker date="1589025809374" expanded="true" signature="361:516" ph="{...}" />
+            <marker date="1589025809374" expanded="true" signature="429:506" ph="{...}" />
+            <marker date="1589025809374" expanded="true" signature="618:642" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
